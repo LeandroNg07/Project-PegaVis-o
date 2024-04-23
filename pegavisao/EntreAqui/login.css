@@ -1,0 +1,118 @@
+body{
+    background-image: url(./logins/img/background2.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #3b7197;
+}
+
+
+h2{
+    font-size: 28px;
+    color: #686E77;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+section{
+    background-color: white;
+    width: 100%;
+    max-width: 1000px;
+    height: 950px;
+    margin-top: 20px;
+}
+
+.titulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+}
+
+.container2{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+    height: 300px;
+    min-width: 300px;
+    max-width: 100%;
+}
+
+.retmed{
+    background-image: url(./img.login/retmed2.png);
+    width: 100%;
+    max-width: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+}
+
+.retuser{
+    background-image: url(./img.login/retuser2.png);
+    width: 100%;
+    max-width: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+
+}
+
+.retadm{
+    background-image: url(./img.login/retadm2.png);
+    width: 100%;
+    max-width: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+}
+
+.a2{
+    border-radius: 90px;
+    /* border: solid 2px red; */
+    height: 300px;
+    width: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+    text-decoration: none;
+}
+
+.fim{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.cadas{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.intro{
+    font-size: 40px;
+    color: #3b7197;
+    text-decoration: underline #3b7197;
+}
+
+.intro1{
+     font-size: 40px;
+     color: #3b7197;
+}
+
+
